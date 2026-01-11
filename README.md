@@ -13,8 +13,11 @@ The focus of this section is on prerequisites and installation, including enviro
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (RDP)
 - Internet Information Services (IIS)
+- Windows 10
+- MySQL
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
