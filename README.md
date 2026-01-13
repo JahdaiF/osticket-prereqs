@@ -18,6 +18,8 @@ The focus of this section is on prerequisites and installation, including enviro
 - Windows 10
 - MySQL
 - HeidiSQL
+- PHP Manager For IIS
+- PHP 7.3.8 (NTS)
 
 <h2>Operating Systems Used </h2>
 
@@ -25,7 +27,7 @@ The focus of this section is on prerequisites and installation, including enviro
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- [Download osTicket Installation Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 - Item 2
 - Item 3
 - Item 4
