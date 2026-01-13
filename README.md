@@ -27,8 +27,8 @@ The focus of this section is on prerequisites and installation, including enviro
 
 <h2>List of Prerequisites</h2>
 
-- [Download osTicket Installation Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
-- Item 2
+- Create an Azure Virtual Machine Windows 10 and login with Remote Desktop
+- [Download osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 - Item 3
 - Item 4
 - Item 5
