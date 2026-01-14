@@ -25,13 +25,15 @@ The focus of this section is on prerequisites and installation, including enviro
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Required Files</h2>
 
-- Create an Azure Virtual Machine Windows 10 and login with Remote Desktop
-- [Download osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
-- Item 3
-- Item 4
-- Item 5
+- **[Download osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)**
+ - osTicket v1.15.8
+ - PHP 7.3.8 (NTS)
+ - PHP Manager for IIS
+ - MySQL 5.5.62
+ - Rewrite Module (rewrite_amd64_64_en-US.msi)
+ - Microsoft Visual C++ Redistributable (VC_redist.x86)
 
 <h2>Installation Steps</h2>
 
