@@ -28,12 +28,12 @@ The focus of this section is on prerequisites and installation, including enviro
 <h2>Required Files</h2>
 
 - **[Download osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)**
- - osTicket v1.15.8
- - PHP 7.3.8 (NTS)
- - PHP Manager for IIS
- - MySQL 5.5.62
- - Rewrite Module (rewrite_amd64_64_en-US.msi)
- - Microsoft Visual C++ Redistributable (VC_redist.x86)
+  - osTicket v1.15.8
+  - PHP 7.3.8 (NTS)
+  - PHP Manager for IIS
+  - MySQL 5.5.62
+  - Rewrite Module (rewrite_amd64_64_en-US.msi)
+  - Microsoft Visual C++ Redistributable (VC_redist.x86)
 
 <h2>Installation Steps</h2>
 
