@@ -39,7 +39,7 @@ The focus of this section is on prerequisites and installation, including enviro
 <h2> 1. Create azure virtual machine in Microsoft Azure </h2>
 Set up a virtual machine named osticket-vm in the East US 2 region. Use the Windows 10 Enterprise 22H2 (x64, Gen2) image and configure it with 2 vcpus with 8 GiB of memory. 
 <p>
-<img width="1517" height="1313" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/71695009-7b96-40d4-8d81-1041146d698f" 
+<img width="1517" height="1313" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/71695009-7b96-40d4-8d81-1041146d698f" />
 
 <img width="1152" height="1307" alt="Screenshot (1313)" src="https://github.com/user-attachments/assets/956a8a47-ec71-4caa-8a2f-8816ecbb45f8" />
 
