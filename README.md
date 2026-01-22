@@ -41,6 +41,9 @@ Set up a virtual machine named osticket-vm in the East US 2 region. Use the Wind
 <p>
 <img width="1517" height="1313" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/71695009-7b96-40d4-8d81-1041146d698f" 
 
+<img width="1152" height="1307" alt="Screenshot (1313)" src="https://github.com/user-attachments/assets/956a8a47-ec71-4caa-8a2f-8816ecbb45f8" />
+
+
 
 </p>
 <p>
@@ -49,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src<img width="1152" height="1307" alt="Screenshot (1313)" src="https://github.com/user-attachments/assets/c1c2718b-9d19-4686-aa74-57524864ea7c" />
+
   
 </p>
 <p>
