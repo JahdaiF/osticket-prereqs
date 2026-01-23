@@ -63,8 +63,15 @@ Open Control Panel and select Programs, then click <b>Turn Windows Features on o
 <img width="588" height="443" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7b5a24fc-5653-448d-9d4d-da110b48cb86" />
 <img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" />
 
+<h2> 5. Install PHP Manager for IIS</h2>
+Install PHP Manager for IIS by running <b>PHPManagerForIIS_V1.5.0</b> from the unzippped osTicket installation files.
+<img width="794" height="484" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/747fd14f-032c-4fa6-870b-7535ef25bccd" />
 
+<h2> 6. Install rewrite module </h2>
+Install <b>rewrite_amd64_en-US</b> from the osTicket installation files folder.
+<img width="797" height="478" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/2153597d-2483-413f-ae6d-52df3527b6b0" />
 
+<h2> 7. </h2>
 <br />
 
 
