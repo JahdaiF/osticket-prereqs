@@ -52,9 +52,13 @@ Once the virtual machine is created, go to its settings in Azure and find the pu
 <img width="1712" height="1054" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/77fdba28-1a2f-4e28-b462-d71abdead2f2" />
 
 <h2> 3. Download and unzip osTicket installation files </h2>
-Download osTicket intstallation files and unzip them in the virtual machine desktop.
+Download the osTicket intstallation files and unzip them to the desktop of the virtual machine.
 
 [osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
+
+<h2> 4. Enable IIS and CGI in control panel </h2>
+Open Control Panel and select Programs, then click **Turn Windows feathers on or off**. In the list, make sure Internet Information Services (IIS) is enabled. Under World Wide Web Services
+
 
 
 </p>
