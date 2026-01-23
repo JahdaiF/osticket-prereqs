@@ -73,6 +73,7 @@ Install <b>rewrite_amd64_en-US</b> from the osTicket installation files folder.
 
 <h2> 7. Create PHP folder in root directory of C: drive </h2>
 Create a new folder in the root of the C: drive (C:) and name it<b>PHP</b>
+
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
 
