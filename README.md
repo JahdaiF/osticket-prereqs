@@ -51,6 +51,9 @@ Once the virtual machine is created, go to its settings in Azure and find the pu
 <img width="908" height="448" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/71be50a0-2901-4746-a2a0-571b43e5e1ca" />
 <img width="1712" height="1054" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/77fdba28-1a2f-4e28-b462-d71abdead2f2" />
 
+<h2> 3. Download and unzip osTicket installation files </h2>
+Download osTicket intstallation files and unzip them in the virtual machine desktop.
+[osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 
 
 </p>
