@@ -74,7 +74,7 @@ Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
 
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
-<h2> Extract  <b>php-7.3.8-nts-Win32-VC15-x86</b> folder into the <b>PHP</b> folder</h2>
+<h2> 8. Extract <b>php-7.3.8-nts-Win32-VC15-x86</b> folder into the <b>PHP</b> folder</h2>
 Extract contents from <b>php-7.3.8-nts-Win32-VC15-x86</b> folder in <b>osTicket Installation Files</b> folder into the <b>PHP</b> folder in the <b>C:</b> drive.
 
 <br />
