@@ -45,6 +45,11 @@ Set up a virtual machine named osticket-vm in the East US 2 region. Use the Wind
 
 <img width="1153" height="1312" alt="Screenshot (1314)" src="https://github.com/user-attachments/assets/8348de62-b8ac-47a7-9e47-5d89c4bffe5e" />
 
+<h2> 2. Log into the virtual machine using Remote Desktop </h2>
+Once the virtual machine is created, go to its settings in azure and find the public IP address. Use this IP address to log into the virtual machine via remote desktop (RDP).
+<img width="895" height="449" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/acc805d4-f2b0-479c-9359-eef8533c15f0" />
+<img width="908" height="448" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/71be50a0-2901-4746-a2a0-571b43e5e1ca" />
+<img width="1712" height="1054" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/77fdba28-1a2f-4e28-b462-d71abdead2f2" />
 
 
 
