@@ -57,8 +57,11 @@ Download the osTicket intstallation files and unzip them to the desktop of the v
 [osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 
 <h2> 4. Enable IIS and CGI in control panel </h2>
-Open Control Panel and select Programs, then click <b>Turn Windows features on or off</b>. In the list, make sure <b>Internet Information Services</b> (IIS) is enabled. Under <b>Internet Information Services</b> &#8594; <b>World Wide Web Services</b> &#8594; <b>Application Development Features</b>, enable <b>CGI</b>. 
+Open Control Panel and select Programs, then click <b>Turn Windows Features on or off</b>. In the list, make sure <b>Internet Information Services</b> (IIS) is enabled. Under <b>Internet Information Services</b> &#8594; <b>World Wide Web Services</b> &#8594; <b>Application Development Features</b>, enable <b>CGI</b>. 
 
+<img width="592" height="439" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/a3f998fd-e53b-429c-972f-b062b2f28ee8" />
+<img width="588" height="443" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7b5a24fc-5653-448d-9d4d-da110b48cb86" />
+<img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" />
 
 
 
