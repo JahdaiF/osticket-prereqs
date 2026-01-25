@@ -106,12 +106,12 @@ Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Ope
 <img width="709" height="358" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/98a3a4d2-af00-4cd0-ba88-636456e461a2" />
 <img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d99b9d1e-d36e-4481-a9ad-45193c2eabd1" />
 
-<h2> 12. </h2>
-
+<h2> 12. Extract osTicket-v1.15.8 </h2>
+Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C:\inetpub\wwwroot. Rename folder that was extracted to osTicket. Then restart server again.
 <img width="602" height="440" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/9c6ec526-db12-4928-b44e-44298eacfb5d" />
 <img width="597" height="464" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/28e160ad-3bbb-4cc3-aa2a-2ec816067bb2" />
 <img width="587" height="465" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f87d70e4-2a94-42a8-a71a-a4b855527759" />
-<img width="591" height="449" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/8940ecfa-b3ee-428b-bbeb-33ef30f8ffd2" />
+<img width="588" height="444" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/2fb32bcd-4f88-4a74-83c7-a54c10e5de5d" />
 <img width="582" height="441" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/efb28cd3-01ec-4fde-927c-55ce5787e0ac" />
 
 <br />
