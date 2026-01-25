@@ -77,9 +77,17 @@ Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
 <h2> 8. Extract PHP files to the C:\PHP Folder </h2>
 Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive
 <img width="547" height="505" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/02f2f20d-b8f3-4e29-a0e7-9ae28d432b60" />
-<img width="1074" height="1016" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/2f373bb5-036c-44b8-948e-c0cab3ca2726" />
+<img width="1088" height="1015" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ff22992a-fccf-4465-8a92-90e6b0e7031e" />
 
-<h2> 9. Install </h2>
+<h2> 9. Install Microsoft Visual C++ Redistributable (x86)</h2>
+Install <b>VC_redist.x86</b> from the osTicket installation files folder
+<img width="544" height="458" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c0e34c3e-eba8-4759-9f3e-e53cebbd1ef7" />
+
+<h2> 10. Install mysql-5.5.62 </h2>
+Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder
+<img width="534" height="502" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8dd6f3fe-c495-426b-a742-a252073ea6ba" />
+
+
 
 
 
