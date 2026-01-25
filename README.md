@@ -113,6 +113,7 @@ Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C
 <img width="587" height="465" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f87d70e4-2a94-42a8-a71a-a4b855527759" />
 <img width="588" height="444" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/2fb32bcd-4f88-4a74-83c7-a54c10e5de5d" />
 <img width="582" height="441" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/efb28cd3-01ec-4fde-927c-55ce5787e0ac" />
+<img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/e7360713-33f8-49eb-951b-d68d5fd83893" />
 
 <br />
 
