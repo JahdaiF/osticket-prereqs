@@ -75,7 +75,7 @@ Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
 <h2> 8. Extract PHP files to the C:\PHP Folder </h2>
-Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive
+Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive <br>
 
 <img width="547" height="505" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/02f2f20d-b8f3-4e29-a0e7-9ae28d432b60" />
 <img width="1088" height="1015" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ff22992a-fccf-4465-8a92-90e6b0e7031e" />
