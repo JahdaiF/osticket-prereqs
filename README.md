@@ -97,7 +97,7 @@ Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standa
 <img width="372" height="284" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0f13df9f-e92d-413f-ab90-60d24ab5bfd5" />
 
 <h2> 11. Open IIS as administrator and register php-cgi.exe </h2>
-Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager<b> and register <b>php-cgi.exe</b> which is located in C:\PHP
+Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP<br>
 
 <img width="335" height="410" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/213d4801-1799-430b-bd84-efbe5a7721f2" />
 <img width="703" height="345" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/5ca2866b-7cb4-44f5-8978-901a7e11748a" />
