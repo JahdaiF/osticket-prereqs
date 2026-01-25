@@ -97,14 +97,22 @@ Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standa
 <img width="372" height="284" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0f13df9f-e92d-413f-ab90-60d24ab5bfd5" />
 
 <h2> 11. Open IIS as administrator and register php-cgi.exe </h2>
-Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP<br>
+Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP. Restart the server to apply changes<br>
 
 <img width="335" height="410" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/213d4801-1799-430b-bd84-efbe5a7721f2" />
 <img width="703" height="345" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/5ca2866b-7cb4-44f5-8978-901a7e11748a" />
 <img width="705" height="360" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/15403c45-f5f7-4eb3-8bfe-99df467e19e6" />
 <img width="917" height="408" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/fd100465-f5ec-4eb2-809b-e969fe2b26c1" />
 <img width="709" height="358" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/98a3a4d2-af00-4cd0-ba88-636456e461a2" />
+<img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d99b9d1e-d36e-4481-a9ad-45193c2eabd1" />
 
+<h2> 12. </h2>
+
+<img width="602" height="440" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/9c6ec526-db12-4928-b44e-44298eacfb5d" />
+<img width="597" height="464" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/28e160ad-3bbb-4cc3-aa2a-2ec816067bb2" />
+<img width="587" height="465" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f87d70e4-2a94-42a8-a71a-a4b855527759" />
+<img width="591" height="449" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/8940ecfa-b3ee-428b-bbeb-33ef30f8ffd2" />
+<img width="582" height="441" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/efb28cd3-01ec-4fde-927c-55ce5787e0ac" />
 
 <br />
 
