@@ -128,17 +128,21 @@ Go back to IIS Manager and click <b>Browse *:80(http)</b> in the actions pane to
 - Confirm your IIS configuration settings.
 
 <h2> 14. Enable PHP extensions for osTicket</h2>
-Back in IIS Manager go to Sites &#8594; Default Web Site &#8594; osTicket and select <b>PHP Manager</b>. Select <b>Enable or disable an extension</b> and enable the following extenstions:
+Back in IIS Manager go to Sites &#8594; Default Web Site &#8594; osTicket and select <b>PHP Manager</b>. Select <b>Enable or disable an extension</b> and enable the following extensions:
 
 - php_imap.dll
 - php_intl.dll
 - php_opcache.dll
+
+Refresh the osTicket website to see changes. 
 
 <img width="1725" height="751" alt="Screenshot (1319)" src="https://github.com/user-attachments/assets/1397213f-7789-4ff7-80cd-1cc3c15e93e2" />
 <img width="1733" height="752" alt="Screenshot (1320)" src="https://github.com/user-attachments/assets/a690106b-96c8-4f55-9101-bd89deec2d29" />
 <img width="1730" height="748" alt="Screenshot (1322)" src="https://github.com/user-attachments/assets/ab6aa243-30de-46b3-8bff-8dae2de8dee5" />
 <img width="1729" height="748" alt="Screenshot (1323)" src="https://github.com/user-attachments/assets/b485e262-5f4f-4627-9b9b-19a84cd1c4bf" />
 <img width="1733" height="752" alt="Screenshot (1324)" src="https://github.com/user-attachments/assets/8963a586-8d05-4709-b91a-b7700039b378" />
+<img width="1567" height="983" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/b88e41a2-48ea-455e-8100-7f7cef3144d2" />
 
-
+<h2> 15. Rename ost-config.php file and assign permissions </h2>
+Go to C: &#8594; inetpub &#8594;
 <br />
