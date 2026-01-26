@@ -115,7 +115,13 @@ Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C
 <img width="582" height="441" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/efb28cd3-01ec-4fde-927c-55ce5787e0ac" />
 <img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/e7360713-33f8-49eb-951b-d68d5fd83893" />
 
-<br />
+<h2> 13. Go to osTicket website via IIS </h2>
+Go back to IIS Manager and click <b>Browse *:80(http)</b> in the actions pane to verify that the osTicket site is running correctly. 
+[!IMPORTANT] If you encounter a <b>404 Not Found</b> or any any other error screen, a previous step was likely performed incorrectly. Before moving forward, please:
+- Review the previous instructions carefully.
+- Verify your directory mapping.
+- Confirm your IIS configuration settings.
+
 
 
 
