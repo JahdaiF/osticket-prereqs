@@ -127,7 +127,11 @@ Go back to IIS Manager and click <b>Browse *:80(http)</b> in the actions pane to
 - Verify your directory mapping.
 - Confirm your IIS configuration settings.
 
+<h2> 14. Enable PHP extensions for osTicket</h2>
+Back in IIS Manager go to Sites &#8594; Default Web Site &#8594; osTicket and select <b>PHP Manager</b>. Select <b>Enable or disable an extension</b> and enable the follow extenstions:
 
-
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
 
 <br />
