@@ -144,10 +144,16 @@ Refresh the osTicket website to see changes.
 <img width="1567" height="983" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/b88e41a2-48ea-455e-8100-7f7cef3144d2" />
 
 <h2> 15. Rename ost-config.php file and assign permissions </h2>
-  1. Rename configuration file: Navigate to <b>C:\inetpub\wwwroot\osTicket\include</b> and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b> <br>
-  2. Modify file permissions: Right-click <b>ost-config.php</b> and select Properties.
+  1. <b>Rename configuration file</b>: Navigate to <b>C:\inetpub\wwwroot\osTicket\include</b> and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b> <br>
+  2. <b>Modify file permissions</b>: Right-click <b>ost-config.php</b> and select Properties.
 
-  - Go to the  
+  - Go to the <b>Security</b> and click <b>Advanced</b>
+  - Click <b>Disable inheritance</b>, then choose <b>Remove all inherited permissions from this object</b>
+
+  3. <b>Assign User Access<b/>: Click <b>Add</b> &#8594; <b>Select a principal</b>
+
+  - Type <b>Everyone</b> into the object name box and click ok
+  - Check the box for <b>Full Control</b>, then click OK and Apply to save changes. 
 
 
 
