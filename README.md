@@ -144,7 +144,7 @@ Refresh the osTicket website to see changes.
 <img width="1567" height="983" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/b88e41a2-48ea-455e-8100-7f7cef3144d2" />
 
 <h2> 15. Rename ost-config.php file and assign permissions </h2>
-  1. Rename configuration file: Navigate to C:\inetpub\wwwroot\osTicket\include and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b> <br>
+  1. Rename configuration file: Navigate to <b>C:\inetpub\wwwroot\osTicket\include</b> and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b> <br>
   2. Modify file permissions: Right-click <b>ost-config.php</b> and select Properties.
 
   - Go to the  
