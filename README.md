@@ -144,5 +144,5 @@ Refresh the osTicket website to see changes.
 <img width="1567" height="983" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/b88e41a2-48ea-455e-8100-7f7cef3144d2" />
 
 <h2> 15. Rename ost-config.php file and assign permissions </h2>
-Go to C: &#8594; inetpub &#8594;
+Go to C: &#8594; inetpub &#8594; wwwroot &#8594; osTicket &#8594; include and rename the <b>ost-sampleconfig.php</b> to ost-config.php. Next right-click the file and open properties. Go to <b>Security</b> &#8594; <b>advanced</b>  &#8594; <b>Disable inheritance</b> and select <b>Remove all inherited permissions from this object</b>. Next select <b>Add</b> &#8594; <b>Select a principal</b> and enter in everyone in the box available. Make sure to to give everyone Full Control and apply changes.  
 <br />
