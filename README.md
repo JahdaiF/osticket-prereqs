@@ -155,6 +155,15 @@ Refresh the osTicket website to see changes.
   - Type <b>Everyone</b> into the object name box and click ok.
   - Check the box for <b>Full Control</b>, then click OK and Apply to save changes. 
 
+<img width="1115" height="651" alt="Screenshot (1331)" src="https://github.com/user-attachments/assets/11af8a65-51d6-42ff-b27e-0d1d18733066" />
+<img width="1122" height="807" alt="Screenshot (1346)" src="https://github.com/user-attachments/assets/d95ace90-4dc8-4b04-9672-b5517f6fece4" />
+<img width="1117" height="802" alt="Screenshot (1345)" src="https://github.com/user-attachments/assets/848bc9e4-a624-4ed7-a948-7af61e3e6d83" />
+<img width="1132" height="919" alt="Screenshot (1337)" src="https://github.com/user-attachments/assets/94557a5a-1387-4b3b-a0c8-155908c9f0ed" />
+<img width="1123" height="966" alt="Screenshot (1338)" src="https://github.com/user-attachments/assets/67514f8d-966d-4caa-b0d4-211402b0b73d" />
+<img width="1121" height="906" alt="Screenshot (1339)" src="https://github.com/user-attachments/assets/6ae01f54-bc74-42e2-8531-fe0ae6a7b5f6" />
+<img width="1134" height="746" alt="Screenshot (1341)" src="https://github.com/user-attachments/assets/94ade4fa-f946-4474-836c-f41279875e8b" />
+<img width="1136" height="750" alt="Screenshot (1342)" src="https://github.com/user-attachments/assets/91cdac49-01a4-4c0a-a9de-8f24a2bb48c7" />
+<img width="1105" height="897" alt="Screenshot (1344)" src="https://github.com/user-attachments/assets/2ea0a7c7-ca38-4b62-a9d9-7a0d059fdc39" />
 
 
   
