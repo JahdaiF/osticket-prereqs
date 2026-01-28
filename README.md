@@ -91,9 +91,9 @@ Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder<br
 Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root <br>  
 
 <img width="534" height="502" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8dd6f3fe-c495-426b-a742-a252073ea6ba" />
-<img width="379" height="298" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/781d9768-480b-4b53-9c87-064dd0b4853c" />
-<img width="377" height="298" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/5bbbe8fc-2f56-4df6-9261-83aa1f9eeb08" />
-<img width="372" height="283" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/678b08ae-2254-4876-8c9a-b42dae5f5f7b" />
+<img width="379" height="298" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/781d9768-480b-4b53-9c87-064dd0b4853c" /><br>
+<img width="377" height="298" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/5bbbe8fc-2f56-4df6-9261-83aa1f9eeb08" /><br>
+<img width="372" height="283" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/678b08ae-2254-4876-8c9a-b42dae5f5f7b" /><br>
 <img width="372" height="284" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0f13df9f-e92d-413f-ab90-60d24ab5bfd5" />
 
 <h2> 11. Open IIS as administrator and register php-cgi.exe </h2>
