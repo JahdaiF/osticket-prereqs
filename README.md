@@ -166,13 +166,13 @@ Refresh the osTicket website to see changes.
 <img width="1105" height="897" alt="Screenshot (1344)" src="https://github.com/user-attachments/assets/2ea0a7c7-ca38-4b62-a9d9-7a0d059fdc39" />
 
 <h2> 16. Continue osTicket setup </h2>
-Go back to the osTicket setup in the browser. Enter the following:
+Return to your browser to continue the osTicket setup. Enter the following configurations details:
 
 - Helpdesk Name: Helpdesk
 - Default Email: helpdesk@gmail.com
-- First Name: Your choice
-- Last name: Your choice
-- Email Address: Your choice
+- First Name: [Your choice]
+- Last name: [Your choice]
+- Email Address: [Your choice]
 - Username: adminuser
 - Password: Password1
 
@@ -187,7 +187,22 @@ Go back to the osTicket setup in the browser. Enter the following:
 <img width="1037" height="1117" alt="Screenshot (983)" src="https://github.com/user-attachments/assets/561b95ed-d315-448e-8db8-2e85c88e0ad2" />
 <img width="1050" height="1128" alt="Screenshot (984)" src="https://github.com/user-attachments/assets/5c74226a-3c58-4db1-8be2-15dbee3c5f6b" />
 
-<h2> Install HeidiSQL and create database </h2>
+<h2> 17. Install HeidiSQL and create database </h2>
+
+Part 1. <b>Create the Database<b/>
+ 1. Install HeidiSQL: Locate the <b>HeidiSQL<b/> installer in your osTicket files folder and complete the installation.
+ 2. Establish a new session: Open <b>HeidiSQL<b/>, click <b>New<b/>, and enter the following credentials:
+     - Username: root
+     - Password: root
+ 3. Create Database: Right-click <b>Unnamed<b/> in the sidebar.
+     - Navigate to <b>Create new<b/> &#8594; <b>Database<b/>.
+     - Name the database <b>osTicket<b/> and click OK. 
+
+
+
+
+
+
 Go to the osTicket Installation Files folder and install <b>HeidiSQL</b>. Once <b>HeidiSQL</b> is installed open it and select <b>New</b>. Enter the following to creat new session:
 
 - Username: root
