@@ -166,7 +166,15 @@ Refresh the osTicket website to see changes.
 <img width="1105" height="897" alt="Screenshot (1344)" src="https://github.com/user-attachments/assets/2ea0a7c7-ca38-4b62-a9d9-7a0d059fdc39" />
 
 <h2> 16. Continue osTicket setup </h2>
-Go back to the osTicket setup in the browser.    
+Go back to the osTicket setup in the browser. Enter the following:
+
+- Helpdesk Name: Helpdesk
+- Default Email: helpdesk@gmail.com
+- First Name: Your choice
+- Last name: Your choice
+- Email Address: Your choice
+- Username: adminuser
+- Password: Password1
 
 <img width="1562" height="977" alt="Screenshot (1347)" src="https://github.com/user-attachments/assets/072fa355-b0dd-451e-9587-9e8f94c9e85c" />
 <img width="1538" height="1177" alt="Screenshot (1348)" src="https://github.com/user-attachments/assets/2ed14d24-caa1-4125-be1c-0801ed81fa34" />
