@@ -165,6 +165,19 @@ Refresh the osTicket website to see changes.
 <img width="1136" height="750" alt="Screenshot (1342)" src="https://github.com/user-attachments/assets/91cdac49-01a4-4c0a-a9de-8f24a2bb48c7" />
 <img width="1105" height="897" alt="Screenshot (1344)" src="https://github.com/user-attachments/assets/2ea0a7c7-ca38-4b62-a9d9-7a0d059fdc39" />
 
+<h2> 16. Continue osTicket setup </h2>
+Go back to the osTicket browser   
+
+<img width="1562" height="977" alt="Screenshot (1347)" src="https://github.com/user-attachments/assets/072fa355-b0dd-451e-9587-9e8f94c9e85c" />
+<img width="1538" height="1177" alt="Screenshot (1348)" src="https://github.com/user-attachments/assets/2ed14d24-caa1-4125-be1c-0801ed81fa34" />
+<img width="1716" height="1170" alt="Screenshot (1350)" src="https://github.com/user-attachments/assets/e4c24515-5596-4bb0-a957-fa3513ab62ba" />
+<img width="1548" height="1170" alt="Screenshot (1352)" src="https://github.com/user-attachments/assets/4f3ecba6-3163-446c-9728-f9a302865e88" />
+<img width="1551" height="1186" alt="Screenshot (1353)" src="https://github.com/user-attachments/assets/d4db0c90-032c-478c-9ae8-99448ed4ae72" />
+<img width="924" height="593" alt="Screenshot (980)" src="https://github.com/user-attachments/assets/5f9ab66f-73e7-4a92-bc8b-0fb189e55289" />
+<img width="935" height="597" alt="Screenshot (981)" src="https://github.com/user-attachments/assets/ca1d188b-c4e5-469b-973f-dc73c8715401" />
+<img width="929" height="577" alt="Screenshot (982)" src="https://github.com/user-attachments/assets/68096657-2474-44ef-8058-2157f15d6111" />
+<img width="1037" height="1117" alt="Screenshot (983)" src="https://github.com/user-attachments/assets/561b95ed-d315-448e-8db8-2e85c88e0ad2" />
+<img width="1050" height="1128" alt="Screenshot (984)" src="https://github.com/user-attachments/assets/5c74226a-3c58-4db1-8be2-15dbee3c5f6b" />
 
   
 <br />
