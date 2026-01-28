@@ -70,7 +70,7 @@ Install <b>rewrite_amd64_en-US</b> from the osTicket installation files folder.
 <img width="797" height="478" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/2153597d-2483-413f-ae6d-52df3527b6b0" />
 
 <h2> 7. Create PHP folder in root directory of C: drive </h2>
-Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
+Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b><br>
 
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
@@ -81,7 +81,7 @@ Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the fo
 <img width="1088" height="1015" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ff22992a-fccf-4465-8a92-90e6b0e7031e" />
 
 <h2> 9. Install Microsoft Visual C++ Redistributable (x86)</h2>
-Install <b>VC_redist.x86</b> from the osTicket installation files folder
+Install <b>VC_redist.x86</b> from the osTicket installation files folder<br>
 
 <img width="544" height="458" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c0e34c3e-eba8-4759-9f3e-e53cebbd1ef7" />
 
