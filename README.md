@@ -88,7 +88,7 @@ Install <b>VC_redist.x86</b> from the osTicket installation files folder
 <h2> 10. Install mysql-5.5.62 </h2>
 Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder<br>
 
-Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root  
+Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root <br>  
 
 <img width="534" height="502" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8dd6f3fe-c495-426b-a742-a252073ea6ba" />
 <img width="379" height="298" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/781d9768-480b-4b53-9c87-064dd0b4853c" />
@@ -107,7 +107,8 @@ Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Ope
 <img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d99b9d1e-d36e-4481-a9ad-45193c2eabd1" />
 
 <h2> 12. Extract osTicket-v1.15.8 </h2>
-Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C:\inetpub\wwwroot. Rename folder that was extracted to osTicket. Then restart server again.
+Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C:\inetpub\wwwroot. Rename folder that was extracted to osTicket. Then restart server again.<br>
+
 <img width="602" height="440" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/9c6ec526-db12-4928-b44e-44298eacfb5d" />
 <img width="597" height="464" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/28e160ad-3bbb-4cc3-aa2a-2ec816067bb2" />
 <img width="587" height="465" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f87d70e4-2a94-42a8-a71a-a4b855527759" />
