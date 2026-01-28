@@ -187,5 +187,17 @@ Go back to the osTicket setup in the browser. Enter the following:
 <img width="1037" height="1117" alt="Screenshot (983)" src="https://github.com/user-attachments/assets/561b95ed-d315-448e-8db8-2e85c88e0ad2" />
 <img width="1050" height="1128" alt="Screenshot (984)" src="https://github.com/user-attachments/assets/5c74226a-3c58-4db1-8be2-15dbee3c5f6b" />
 
-  
-<br />
+<h2> Install HeidiSQL and create database </h2>
+Go to the osTicket Installation Files folder and install <b>HeidiSQL</b>. Once <b>HeidiSQL</b> is installed open it and select <b>New</b>. Enter the following to creat new session:
+
+- Username: root
+- Password: root
+
+Right-click on <b>Unnamed<b/> &#8594; <b2>Create new<b/> &#8594; <b>database<b/>. Name the database <b2>osTicket<b/> and select ok.<br>
+Go back to the osTicket setup in the browser and under the <b>Database Settings<b/> put in the following 
+
+- MySQL Hostname: osTicket
+- MySQL Username: root
+- MySQL Password: root
+
+Select Install now to finish. 
