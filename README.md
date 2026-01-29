@@ -6,9 +6,6 @@
 This lab demonstrates the deployment of osTicket, an open source help desk ticketing system used in real-world IT support environments.<br />
 The focus of this section is on prerequisites and installation, including environment preparation and dependency configuration required to successfully install and run osTicket<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
