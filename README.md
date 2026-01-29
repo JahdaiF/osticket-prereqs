@@ -211,5 +211,5 @@ Select Install now to finish.
 <img width="1050" height="1128" alt="Screenshot (984)" src="https://github.com/user-attachments/assets/5c74226a-3c58-4db1-8be2-15dbee3c5f6b" />
 
 <h2>Conclusion</h2>
-The osTicket installation on the Windows 10 VM is now complete and fully operational. By configuring IIS,PHP and the MySQL database, the environment is ready to manage support tickets. 
+The osTicket installation on the Windows 10 VM is now complete and fully operational. By configuring IIS,PHP and the MySQL database, the environment is ready to manage support tickets. <br>
 [Click here for next step: osTicket Post-Installation Configuration](https://github.com/JahdaiF/post-install-config)
