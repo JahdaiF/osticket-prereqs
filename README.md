@@ -35,7 +35,7 @@ The focus of this section is on prerequisites and installation, including enviro
 <h2>Installation Steps</h2>
 <h2> 1. Create Azure virtual machine in Microsoft Azure </h2>
 Set up a virtual machine named <b>osticket-vm</b> in the <b>East US 2</b> region. Use the <b>Windows 10 Enterprise 22H2 (x64, Gen2)</b> image and configure it with 2 vCPUs and 8 GiB of memory. Set the username to <b>labuser</b> and the password to <b>osTicketPassword1!</b>, then select <b>Review + Create</b>. 
-<br>
+
 <img width="1517" height="1313" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/71695009-7b96-40d4-8d81-1041146d698f" /> 
 <img width="1152" height="1307" alt="Screenshot (1313)" src="https://github.com/user-attachments/assets/956a8a47-ec71-4caa-8a2f-8816ecbb45f8" /> 
 <img width="1153" height="1312" alt="Screenshot (1314)" src="https://github.com/user-attachments/assets/8348de62-b8ac-47a7-9e47-5d89c4bffe5e" /> 
