@@ -57,9 +57,9 @@ Download the <b>osTicket intstallation files</b> and unzip them to the desktop o
 <h2> 4. Enable IIS and CGI in control panel </h2>
 Open <b>Control Panel</b> and select <b>Programs</b>, then click <b>Turn Windows Features on or off</b>. In the list, make sure <b>Internet Information Services</b> (IIS) is enabled. Under <b>Internet Information Services</b> &#8594; <b>World Wide Web Services</b> &#8594; <b>Application Development Features</b>, enable <b>CGI</b>. 
 
-<img width="592" height="439" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/a3f998fd-e53b-429c-972f-b062b2f28ee8" />
-<img width="588" height="443" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7b5a24fc-5653-448d-9d4d-da110b48cb86" />
-<img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" />
+<img width="592" height="439" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/a3f998fd-e53b-429c-972f-b062b2f28ee8" /><br>
+<img width="588" height="443" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7b5a24fc-5653-448d-9d4d-da110b48cb86" /><br>
+<img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" /><br>
 
 <h2> 5. Install PHP Manager for IIS</h2>
 Install PHP Manager for IIS by running <b>PHPManagerForIIS_V1.5.0</b> from the unzippped osTicket installation files.
