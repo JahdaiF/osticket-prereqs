@@ -207,7 +207,7 @@ Select Install now to finish.
 <img width="924" height="593" alt="Screenshot (980)" src="https://github.com/user-attachments/assets/5f9ab66f-73e7-4a92-bc8b-0fb189e55289" />
 <img width="935" height="597" alt="Screenshot (981)" src="https://github.com/user-attachments/assets/ca1d188b-c4e5-469b-973f-dc73c8715401" />
 <img width="929" height="577" alt="Screenshot (982)" src="https://github.com/user-attachments/assets/68096657-2474-44ef-8058-2157f15d6111" />
-<img width="1554" height="1308" alt="Screenshot (1357)" src="https://github.com/user-attachments/assets/4ec4bc7a-2b2d-4e90-9a6f-cb1976c52cfd" />
+<img width="1554" height="1308" alt="Screenshot (1357)" src="https://github.com/user-attachments/assets/e4cf9222-4715-449f-8a80-72f114408bd7" />
 <img width="1050" height="1128" alt="Screenshot (984)" src="https://github.com/user-attachments/assets/5c74226a-3c58-4db1-8be2-15dbee3c5f6b" />
 
 <h2>Conclusion</h2>
