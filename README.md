@@ -48,7 +48,7 @@ Once the virtual machine is created, go to its settings in Azure and find the pu
 <img width="1712" height="1054" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/77fdba28-1a2f-4e28-b462-d71abdead2f2" />
 
 <h2> 3. Download and unzip osTicket installation files </h2>
-Download the <b>osTicket intstallation files</b> and unzip them to the desktop of the virtual machine.
+Download the <b>osTicket installation files</b> and unzip them to the desktop of the virtual machine.
 
 [osTicket Installation Files in VM](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0)
 
@@ -149,7 +149,7 @@ Refresh the osTicket website to see changes.
   - Go to the <b>Security</b> and click <b>Advanced</b>
   - Click <b>Disable inheritance</b>, then choose <b>Remove all inherited permissions from this object</b>.
 
-  3. <b>Assign User Access:<b/> Click <b>Add</b> &#8594; <b>Select a principal</b>.
+  3. <b>Assign User Access:</b> Click <b>Add</b> &#8594; <b>Select a principal</b>.
 
   - Type <b>Everyone</b> into the object name box and click ok.
   - Check the box for <b>Full Control</b>, then click OK and Apply to save changes. 
@@ -181,21 +181,21 @@ Return to your browser to continue the osTicket setup. Enter the following confi
 
 <h2> 17. Install HeidiSQL and create database </h2>
 
-Part 1. <b>Database Setup<b/>
+Part 1. <b>Database Setup</b>
  1. Install HeidiSQL: Locate the installer in your osTicket files folder and complete the setup.
- 2. Open HeidiSQL: Launch the application and click <b>New<b/> to create a session
+ 2. Open HeidiSQL: Launch the application and click <b>New</b> to create a session
  3. Enter credentials:
      - Username: root
      - Password: root
  4. Create Database:
-     - Right-click <b>Unnamed<b/> in the sidebar.
-     - Navigate to <b>Create new<b/> &#8594; <b>Database<b/>.
-     - Name the database <b>osTicket<b/> and click OK. 
+     - Right-click <b>Unnamed</b> in the sidebar.
+     - Navigate to <b>Create new</b> &#8594; <b>Database<b/>.
+     - Name the database <b>osTicket</b> and click OK. 
 
 Part 2. Connect osTicket to the Database
 Return to the osTicket setup in your browser. Under the <b>Database Settings<b/> section, enter the following:
 -MySQL Hostname: localhost
-- MySQL Hostname: osTicket
+- MySQL Database: osTicket
 - MySQL Username: root
 - MySQL Password: root
 
