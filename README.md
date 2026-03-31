@@ -45,6 +45,7 @@ Set up a virtual machine named <b>osticket-vm</b> in the <b>East US 2</b> region
 <h2> 2. Log into the virtual machine using Remote Desktop </h2>
 Once the virtual machine is created, go to its settings in Azure and find the public IP address. Use this IP address to log into the virtual machine via <b>Remote Desktop</b> (RDP) using the username and password set earlier.
 <br>
+<br>
 <img width="895" height="449" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/acc805d4-f2b0-479c-9359-eef8533c15f0" />
 <img width="908" height="448" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/71be50a0-2901-4746-a2a0-571b43e5e1ca" />
 <img width="1712" height="1054" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/77fdba28-1a2f-4e28-b462-d71abdead2f2" />
@@ -57,6 +58,7 @@ Download the <b>osTicket installation files</b> and unzip them to the desktop of
 <h2> 4. Enable IIS and CGI in control panel </h2>
 Open <b>Control Panel</b> and select <b>Programs</b>, then click <b>Turn Windows Features on or off</b>. In the list, make sure <b>Internet Information Services</b> (IIS) is enabled. Under <b>Internet Information Services</b> &#8594; <b>World Wide Web Services</b> &#8594; <b>Application Development Features</b>, enable <b>CGI</b>. 
 <br>
+<br>
 <img width="592" height="439" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/a3f998fd-e53b-429c-972f-b062b2f28ee8" /><br>
 <img width="588" height="443" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/7b5a24fc-5653-448d-9d4d-da110b48cb86" /><br>
 <img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" /><br>
@@ -64,34 +66,40 @@ Open <b>Control Panel</b> and select <b>Programs</b>, then click <b>Turn Windows
 <h2> 5. Install PHP Manager for IIS</h2>
 Install PHP Manager for IIS by running <b>PHPManagerForIIS_V1.5.0</b> from the unzippped osTicket installation files.
 <br>
+<br>
 <img width="794" height="484" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/747fd14f-032c-4fa6-870b-7535ef25bccd" />
 
 <h2> 6. Install rewrite module </h2>
 Install <b>rewrite_amd64_en-US</b> from the osTicket installation files folder.
 <br>
+<br>
 <img width="797" height="478" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/2153597d-2483-413f-ae6d-52df3527b6b0" />
 
 <h2> 7. Create PHP folder in root directory of C: drive </h2>
-Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b><br>
-
+Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
+<br>
+<br>
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
 <h2> 8. Extract PHP files to the C:\PHP Folder </h2>
-Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive <br>
-
+Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive
+<br>
+<br>
 <img width="547" height="505" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/02f2f20d-b8f3-4e29-a0e7-9ae28d432b60" />
 <img width="1088" height="1015" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ff22992a-fccf-4465-8a92-90e6b0e7031e" />
 
 <h2> 9. Install Microsoft Visual C++ Redistributable (x86)</h2>
-Install <b>VC_redist.x86</b> from the osTicket installation files folder<br>
-
+Install <b>VC_redist.x86</b> from the osTicket installation files folder
+<br>
+<br>
 <img width="544" height="458" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c0e34c3e-eba8-4759-9f3e-e53cebbd1ef7" />
 
 <h2> 10. Install mysql-5.5.62 </h2>
 Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder<br>
 
-Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root <br>  
-
+Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root 
+<br>
+<br>
 <img width="534" height="502" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8dd6f3fe-c495-426b-a742-a252073ea6ba" /><br>
 <img width="379" height="298" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/781d9768-480b-4b53-9c87-064dd0b4853c" /><br>
 <img width="377" height="298" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/5bbbe8fc-2f56-4df6-9261-83aa1f9eeb08" /><br>
@@ -99,8 +107,9 @@ Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standa
 <img width="372" height="284" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0f13df9f-e92d-413f-ab90-60d24ab5bfd5" />
 
 <h2> 11. Open IIS as administrator and register php-cgi.exe </h2>
-Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP. Restart the server to apply changes<br>
-
+Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP. Restart the server to apply changes
+<br>
+<br>
 <img width="335" height="410" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/213d4801-1799-430b-bd84-efbe5a7721f2" />
 <img width="703" height="345" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/5ca2866b-7cb4-44f5-8978-901a7e11748a" />
 <img width="705" height="360" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/15403c45-f5f7-4eb3-8bfe-99df467e19e6" />
@@ -109,8 +118,9 @@ Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Ope
 <img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d99b9d1e-d36e-4481-a9ad-45193c2eabd1" />
 
 <h2> 12. Extract osTicket-v1.15.8 </h2>
-Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C:\inetpub\wwwroot. Rename folder that was extracted to osTicket. Then restart server again.<br>
-
+Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C:\inetpub\wwwroot. Rename folder that was extracted to osTicket. Then restart server again.
+<br>
+<br>
 <img width="602" height="440" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/9c6ec526-db12-4928-b44e-44298eacfb5d" />
 <img width="597" height="464" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/28e160ad-3bbb-4cc3-aa2a-2ec816067bb2" />
 <img width="587" height="465" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f87d70e4-2a94-42a8-a71a-a4b855527759" />
@@ -119,8 +129,9 @@ Extract <b>osTicket-v1.15.8</b> from the osTicket installation files folder to C
 <img width="706" height="350" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/e7360713-33f8-49eb-951b-d68d5fd83893" />
 
 <h2> 13. Access osTicket website via IIS Manager </h2>
-Go back to IIS Manager and click <b>Browse *:80(http)</b> in the actions pane to verify that the osTicket site is running correctly. <br>
-
+Go back to IIS Manager and click <b>Browse *:80(http)</b> in the actions pane to verify that the osTicket site is running correctly.
+<br>
+<br>
 <img width="1726" height="746" alt="Screenshot (1317)" src="https://github.com/user-attachments/assets/f74a57b3-e2ac-4a3a-8cc7-90ca16618b9d" />
 <img width="1548" height="976" alt="Screenshot (1318)" src="https://github.com/user-attachments/assets/7fb7beb5-e917-47d3-a755-89ef50b415dd" />
 
@@ -138,7 +149,8 @@ Back in IIS Manager go to Sites &#8594; Default Web Site &#8594; osTicket and se
 - php_opcache.dll
 
 Refresh the osTicket website to see changes. 
-
+<br>
+<br>
 <img width="1725" height="751" alt="Screenshot (1319)" src="https://github.com/user-attachments/assets/1397213f-7789-4ff7-80cd-1cc3c15e93e2" />
 <img width="1733" height="752" alt="Screenshot (1320)" src="https://github.com/user-attachments/assets/a690106b-96c8-4f55-9101-bd89deec2d29" />
 <img width="1730" height="748" alt="Screenshot (1322)" src="https://github.com/user-attachments/assets/ab6aa243-30de-46b3-8bff-8dae2de8dee5" />
@@ -157,7 +169,8 @@ Refresh the osTicket website to see changes.
 
   - Type <b>Everyone</b> into the object name box and click ok.
   - Check the box for <b>Full Control</b>, then click OK and Apply to save changes. 
-
+<br>
+<br>
 <img width="1115" height="651" alt="Screenshot (1331)" src="https://github.com/user-attachments/assets/11af8a65-51d6-42ff-b27e-0d1d18733066" />
 <img width="1122" height="807" alt="Screenshot (1346)" src="https://github.com/user-attachments/assets/d95ace90-4dc8-4b04-9672-b5517f6fece4" />
 <img width="1117" height="802" alt="Screenshot (1345)" src="https://github.com/user-attachments/assets/848bc9e4-a624-4ed7-a948-7af61e3e6d83" />
@@ -178,7 +191,8 @@ Return to your browser to continue the osTicket setup. Enter the following confi
 - Email Address: [Your choice]
 - Username: adminuser
 - Password: Password1
-
+<br>
+<br>
 <img width="1562" height="977" alt="Screenshot (1347)" src="https://github.com/user-attachments/assets/072fa355-b0dd-451e-9587-9e8f94c9e85c" />
 <img width="1538" height="1177" alt="Screenshot (1348)" src="https://github.com/user-attachments/assets/2ed14d24-caa1-4125-be1c-0801ed81fa34" />
 
@@ -204,7 +218,8 @@ Return to the osTicket setup in your browser. Under the <b>Database Settings</b>
 - MySQL Password: root
 
 Select Install now to finish. 
-
+<br>
+<br>
 <img width="1716" height="1170" alt="Screenshot (1350)" src="https://github.com/user-attachments/assets/e4c24515-5596-4bb0-a957-fa3513ab62ba" />
 <img width="1548" height="1170" alt="Screenshot (1352)" src="https://github.com/user-attachments/assets/4f3ecba6-3163-446c-9728-f9a302865e88" />
 <img width="1551" height="1186" alt="Screenshot (1353)" src="https://github.com/user-attachments/assets/d4db0c90-032c-478c-9ae8-99448ed4ae72" />
