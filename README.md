@@ -21,7 +21,7 @@ The focus of this section is on prerequisites and installation, including enviro
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- <b>Windows 10</b> (21H2)
 
 <h2>Required Files</h2>
 
@@ -64,7 +64,7 @@ Open <b>Control Panel</b> and select <b>Programs</b>, then click <b>Turn Windows
 <img width="343" height="305" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aa109ab8-f687-4e11-9a2e-c6095fb65f57" /><br>
 
 <h2> 5. Install PHP Manager for IIS</h2>
-Install PHP Manager for IIS by running <b>PHPManagerForIIS_V1.5.0</b> from the unzippped osTicket installation files.
+Install PHP Manager for IIS by running <b>PHPManagerForIIS_V1.5.0</b> from the unzipped osTicket installation files.
 <br>
 <br>
 <img width="794" height="484" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/747fd14f-032c-4fa6-870b-7535ef25bccd" />
