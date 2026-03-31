@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This lab demonstrates the deployment of osTicket, an open source help desk ticketing system used in real-world IT support environments.<br />
-The focus of this section is on prerequisites and installation, including environment preparation and dependency configuration required to successfully install and run osTicket<br />
+The focus of this section is on prerequisites and installation, including environment preparation and dependency configuration required to successfully install and run osTicket. <br />
 
 <h2>(Coming Soon) Video Demonstration</h2>
   
@@ -76,28 +76,28 @@ Install <b>rewrite_amd64_en-US</b> from the osTicket installation files folder.
 <img width="797" height="478" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/2153597d-2483-413f-ae6d-52df3527b6b0" />
 
 <h2> 7. Create PHP folder in root directory of C: drive </h2>
-Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>
+Create a new folder in the root of the C: drive (C:) and name it <b>PHP</b>.
 <br>
 <br>
 <img width="413" height="283" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f9cd3bbf-d94a-4c5b-a68c-0e098b41625d" />
 
 <h2> 8. Extract PHP files to the C:\PHP Folder </h2>
-Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive
+Now we need to move the files in <b>php-7.3.8-nts-Win32-VC15-x86</b> into the folder that was created on the C: drive.
 <br>
 <br>
 <img width="547" height="505" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/02f2f20d-b8f3-4e29-a0e7-9ae28d432b60" />
 <img width="1088" height="1015" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/ff22992a-fccf-4465-8a92-90e6b0e7031e" />
 
 <h2> 9. Install Microsoft Visual C++ Redistributable (x86)</h2>
-Install <b>VC_redist.x86</b> from the osTicket installation files folder
+Install <b>VC_redist.x86</b> from the osTicket installation files folder.
 <br>
 <br>
 <img width="544" height="458" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/c0e34c3e-eba8-4759-9f3e-e53cebbd1ef7" />
 
 <h2> 10. Install mysql-5.5.62 </h2>
-Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder<br>
+Install <b>mysql-5.5.62-win32</b> from the osTicket installation files folder.<br>
 
-Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root 
+Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standard Configuration &#8594; Username: root Password: root.
 <br>
 <br>
 <img width="534" height="502" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/8dd6f3fe-c495-426b-a742-a252073ea6ba" /><br>
@@ -107,7 +107,7 @@ Setup: Typical &#8594; Launch MySQL Instance Configuration Wizard &#8594; Standa
 <img width="372" height="284" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0f13df9f-e92d-413f-ab90-60d24ab5bfd5" />
 
 <h2> 11. Open IIS as administrator and register php-cgi.exe </h2>
-Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP. Restart the server to apply changes
+Open up <b>Internet Information Services (IIS) Manager</b> as administrator. Open <b>PHP manager</b> and register <b>php-cgi.exe</b> which is located in C:\PHP. Restart the server to apply changes.
 <br>
 <br>
 <img width="335" height="410" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/213d4801-1799-430b-bd84-efbe5a7721f2" />
@@ -159,7 +159,7 @@ Refresh the osTicket website to see changes.
 <img width="1567" height="983" alt="Screenshot (1325)" src="https://github.com/user-attachments/assets/b88e41a2-48ea-455e-8100-7f7cef3144d2" />
 
 <h2> 15. Rename ost-config.php file and assign permissions </h2>
-  1. <b>Rename configuration file:</b> Navigate to <b>C:\inetpub\wwwroot\osTicket\include</b> and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b> <br>
+  1. <b>Rename configuration file:</b> Navigate to <b>C:\inetpub\wwwroot\osTicket\include</b> and rename <b>ost-sampleconfig.php</b> to <b>ost-config.php</b>. <br>
   2. <b>Modify file permissions:</b> Right-click <b>ost-config.php</b> and select Properties.
 
   - Go to the <b>Security</b> and click <b>Advanced</b>
@@ -201,7 +201,7 @@ Return to your browser to continue the osTicket setup. Enter the following confi
 
 Part 1. <b>Database Setup</b>
  1. Install HeidiSQL: Locate the installer in your osTicket files folder and complete the setup.
- 2. Open HeidiSQL: Launch the application and click <b>New</b> to create a session
+ 2. Open HeidiSQL: Launch the application and click <b>New</b> to create a session.
  3. Enter credentials:
      - Username: root
      - Password: root
