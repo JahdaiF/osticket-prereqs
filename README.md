@@ -21,7 +21,7 @@ The focus of this section is on prerequisites and installation, including enviro
 
 <h2>Operating Systems Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Required Files</h2>
 
