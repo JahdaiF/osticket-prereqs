@@ -189,7 +189,7 @@ Part 1. <b>Database Setup</b>
      - Password: root
  4. Create Database:
      - Right-click <b>Unnamed</b> in the sidebar.
-     - Navigate to <b>Create new</b> &#8594; <b>Database<b/>.
+     - Navigate to <b>Create new</b> &#8594; <b>Database</b>.
      - Name the database <b>osTicket</b> and click OK. 
 
 Part 2. Connect osTicket to the Database
