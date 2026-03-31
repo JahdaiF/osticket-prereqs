@@ -193,7 +193,7 @@ Part 1. <b>Database Setup</b>
      - Name the database <b>osTicket</b> and click OK. 
 
 Part 2. Connect osTicket to the Database
-Return to the osTicket setup in your browser. Under the <b>Database Settings<b/> section, enter the following:
+Return to the osTicket setup in your browser. Under the <b>Database Settings</b> section, enter the following:
 -MySQL Hostname: localhost
 - MySQL Database: osTicket
 - MySQL Username: root
